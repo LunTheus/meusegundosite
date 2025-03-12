@@ -46,3 +46,9 @@ main > div p{
     padding: 30px;
     text-align: justify;
 }
+
+section > img{
+    height: 50%;
+    background: center center no-repeat fixed;
+    background-size: cover;
+}
